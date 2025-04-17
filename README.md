@@ -7,15 +7,20 @@ Our results show that multi-label planning provides better results, beyond provi
 
 <h2>Experiment 1</h2>
 Code associated with the experiment led on DailyDialog, an English Open-Domain dataset, including:
+
 * Sequence of Labels Planning module
 * Generation
 * Rerank and Response Selection
 * Human and Automatic Evaluation
+  
 
 <h2>Experiment 2 and 3</h2>
 Code associated with the experiment led on DATA-SERGe, a French Task-Oriented dataset, including:
+
 * Prompt-based Generation
 * Human and Automatic Evaluation
 
 <h2>Coming soon...</h2>
+Upcoming additions to this repository include: 
+
 * Official public release of DATA-SERGe
