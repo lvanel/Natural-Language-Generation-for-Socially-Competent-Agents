@@ -1,0 +1,17 @@
+                        total consistency score  logical consistency score  \
+qwen naive planning                        0.95                       0.87   
+qwen response e2e                          0.91                       0.77   
+llama naive planning                       0.93                       0.86   
+llama response e2e                         0.93                       0.86   
+mixtral naive planning                     0.92                       0.86   
+mixtral response e2e                       0.90                       0.82   
+ground truth                               0.94                       0.89   
+
+                        emotional consistency score  social consistency score  
+qwen naive planning                            1.00                      0.98  
+qwen response e2e                              0.97                      0.99  
+llama naive planning                           0.95                      0.97  
+llama response e2e                             0.95                      0.97  
+mixtral naive planning                         0.95                      0.96  
+mixtral response e2e                           0.93                      0.96  
+ground truth                                   0.98                      0.95  

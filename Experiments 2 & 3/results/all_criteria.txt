@@ -1,0 +1,26 @@
+                        usefulness  fluency  naturalness  emo f1  \
+qwen naive planning           0.92     0.92         0.78    0.92   
+qwen response e2e             0.70     0.88         0.72    0.73   
+llama naive planning          0.88     0.88         0.82    0.74   
+llama response e2e            0.87     0.92         0.78    0.95   
+mixtral naive planning        0.83     0.90         0.83    0.86   
+mixtral response e2e          0.85     0.90         0.70    0.90   
+ground truth                  0.87     0.92         0.88    0.68   
+
+                        emotion_adequate  strategy_adequate  lev strat  \
+qwen naive planning                 1.00               0.97       0.09   
+qwen response e2e                   0.97               0.98       0.12   
+llama naive planning                0.95               0.95       0.12   
+llama response e2e                  0.95               0.95       0.11   
+mixtral naive planning              0.95               0.92       0.08   
+mixtral response e2e                0.93               0.92       0.10   
+ground truth                        0.98               0.90       0.11   
+
+                        jacc strat  role_consistency  
+qwen naive planning           0.87               1.0  
+qwen response e2e             0.85               1.0  
+llama naive planning          0.84               1.0  
+llama response e2e            0.84               1.0  
+mixtral naive planning        0.88               1.0  
+mixtral response e2e          0.85               1.0  
+ground truth                  0.84               1.0  
