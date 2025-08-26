@@ -1,4 +1,4 @@
-<h1>Code Associated with Natural Language Generation for Socially Competent Agents</h1>
+<h1>Code Associated with the Thesis: Planning Socio-Emotional Response Generation for Conversational Agents</h1>
 Our overarching objective is to develop a method for producing more appropriate responses in task-oriented discussions. Our technological challenge is how to dynamically consider the evolution of emotional and conversational states during a task-oriented dialogue for the next speaker-turn generation.
 
 As this thesis exists in an industrial context, where both transparency and controllability are crucial aspects, we propose a 2-step architecture that includes an explicit planning step. This yields a sequence of socio-emotional labels that will condition the generation to output an accurate response. 
